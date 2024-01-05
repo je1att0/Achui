@@ -29,7 +29,7 @@ np.random.seed(seed)
 random.seed(seed)
 
 # Directory to search
-dir = "simple-job-board"
+# dir = "dir/where/vuln/files/are"
 
 data_ls = []
 no_flaws = 0
